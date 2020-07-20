@@ -16,7 +16,7 @@ public class NoteActivity extends AppCompatActivity {
     EditText editText;
     int noteId;
     SharedPreferences sharedPreferences;
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
